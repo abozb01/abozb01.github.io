@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/einstein.png">
 
 ## Why Won't Anyone answer my Question?
 
