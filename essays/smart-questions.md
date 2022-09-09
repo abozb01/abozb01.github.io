@@ -1,30 +1,32 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Why won't Anyone Answer My Question Online?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
+date: 2022-09-06
 published: true
 labels:
-  - Questions
-  - Answers
+  - Smart Questions
+  - Getting Right Answers
   - StackOverflow
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Why Won't Anyone answer my Question?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+There you are. Smell of Cookie Crumbs in the air. Happy as can be. Why? Because someone answered your question on Stack Overflow about a project you have been working on for the past two months. You open up to Stack Overflow as excited as a kid on christmas morning. But then, what happened? You start to ask yourself what is this answer? They need to know more information? They don't care that I am Newbie? I should study my own project more? Now you feel embarrassed and ashamed,and run up to your room in tears because you did not get the red ryder deluxe, you got bunny pajamas and a bowl of hurt feelings. No need to fret my friend, for I am here to get your question answered the SMART way.
 
-## What’s a smart question?
+## Is a SMART Question "A Thing?"
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
+Yes, yes and YES! Professionals and engineers working in the field are using their precious, free time to answer your questions. Remind you that they are professionals that have worked for years in the software/program you are trying to run, so respect is a must as well as asking a question the correct way. In business, time is money and wasted time is wasting money. Nobody likes to waste their money. Now I present to you a SMART Question! 
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+In the following examples, we will see if a SMART question is being asked, or not.  
+
+## Case Number 1
 
 ```
-Q: python date of the previous month
+Q: Why wont my C program work
 
 I am trying to get the date of the previous month with python. Here is what i've tried:
 
@@ -37,16 +39,7 @@ I have solved this trouble in bash with:
 
 echo $(date -d"3 month ago" "+%G%m%d")
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
         
 I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
 
@@ -77,23 +70,31 @@ Like this:
  
 The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
 
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
+## Case Number 2.
 ```
-Q: Facebook Desktop Notifier
+Q: Why wont my C program work
 
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
+Hi i have been writing this c program and i have hit a wall it want let me call the sleep function. When i type sleep it just sits there until i exit it. Im' writing this program as a project in school and its based off the comedy skit the dark room.
 ```
 
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
+This person is attempting to get the answer for their homework problem the wrong way. Sed person could have asked can you point me in the right direction, instead of demanding an answer without knowing too much about the code in the first place. You can tell this person did not look online first or even ask a friend because of how the question is stated, it is not specific enough to be a SMART question. If the question is not SMART... if the shoe fits... just be a little more descripter with your question so it does not look like you didn't try yourself first.Doing more research is key to getting an answer from Stack Overflow. If you wanted to know, someone answered a Not so Smart Question or a Not Nice question, with a Not so Nice Answer. Now let us analyze.
+
+Right off the bat, we can see the asker is not using correct spelling and punctuation. Let us proceed.
+
+When i type sleep it just sits there until i exit it.
+
+This line was not too bad, but it is not SMART enough. A SMART question needs to be very descriptive in every aspect. It just sits there until I exit it can be rewritten as, I type the sleep function in my program, which should give time for the other parts of my program to execute, but my program gets stuck somewhere forever waiting. I have to the Control Z the program to exit. 
+
+Another important part to asking a SMART question is to learn how to debug your own code. The asker could have exclaimed that he threw a couple of printf statements to see exactly where the program was sticking to. This is important because your question reader then knows you took valuable time out of your day to try determining the problem with it, just like they are taking valuable time out of their day to answer your question. The last sentence exclaims
+
+Im' writing this program as a project in school and its based off the comedy skit the dark room.
+
+This tells what the reader what he is using the program for, which is a good thing for relevance purposes. BUT he says it is a project for school. You are supposed to do your own projects in school, and this question did get a response similar to that. A SMART question is not for someone to solve your Homework, but you could have asked for a hint to what was wrong with the program. 
+
+A good thing he did was send the whole code. If you do not send the entire code, someone cannot debug your question properly. With the code being there, it can be a copy and paste job for the professional responder. All together, not a SMART question by the guidelines of SMART questions. Below is a link for this askers code in case you wanted to examine it and see why it is not a SMART question. At the top of the page there is also two arrows, this one has a -2. It says the question was not researched enough and it is not clear or useful. Ouch. Now, let us carry on to another question.
+
+https://stackoverflow.com/questions/22468440/why-wont-my-c-program-work
 
 ## Conclusion
 
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+It is important especially when you work in the world of tech, how to ask SMART questions. This pertains to not just asking online, but asking your friends and teachers as well. Not so Smart Questions get Not so Nice Answers. Also, if you feel you are being singled out for a question asked, go through the SMART question guide to see if you Deserve a Nice Answer. We work in the world of Software, not feelings. Make sure to do your research, debug your own, use the google machine, and don't be afraid to ask a friend or ask online! Stack Overflow answerers WANT to help you, not yo make your life hard or put you down. They understand they were new at one point too, and just want to guide people to correct code because that is what they truely love doing.If you have a question I hope you take my advice and have it be SMART.! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
