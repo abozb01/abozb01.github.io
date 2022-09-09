@@ -21,6 +21,9 @@ There you are. Smell of Cookie Crumbs in the air. Happy as can be. Why? Because 
 
 Yes, yes and YES! Professionals and engineers working in the field are using their precious, free time to answer your questions. Remind you that they are professionals that have worked for years in the software/program you are trying to run, so respect is a must as well as asking a question the correct way. In business, time is money and wasted time is wasting money. Nobody likes to waste their money. Now I present to you a SMART Question! 
 
+
+<img width="330px" class="rounded float-start pe-4" src="../img/smart.png">
+
 In the following examples, we will see if a SMART question is being asked, or not.  
 
 ## Case Number 1
