@@ -44,6 +44,8 @@ The asker wants to implement some python functions in his Node.js application. T
 
 Overall, A SMART question! Good job! This writer recieved 10 solutions and was voted to be relevant and of good use. This is what happens when you take the necessary steps. Below is the link for the SMART question.
 
+<img width="250px" class="rounded float-start pe-4" src="../img/checkmark.png">
+
 https://stackoverflow.com/questions/23450534/how-to-call-a-python-function-from-node-js
 
 
@@ -69,6 +71,8 @@ Im' writing this program as a project in school and its based off the comedy ski
 This tells what the reader what he is using the program for, which is a good thing for relevance purposes. BUT he says it is a project for school. You are supposed to do your own projects in school, and this question did get a response similar to that. A SMART question is not for someone to solve your Homework, but you could have asked for a hint to what was wrong with the program. 
 
 A good thing he did was send the whole code. If you do not send the entire code, someone cannot debug your question properly. With the code being there, it can be a copy and paste job for the professional responder. All together, not a SMART question by the guidelines of SMART questions. Below is a link for this askers code in case you wanted to examine it and see why it is not a SMART question. At the top of the page there is also two arrows, this one has a -2. It says the question was not researched enough and it is not clear or useful. Ouch. Now, let us carry on to another question.
+
+<img width="250px" class="rounded float-start pe-4" src="../img/xmark.png">
 
 https://stackoverflow.com/questions/22468440/why-wont-my-c-program-work
 
