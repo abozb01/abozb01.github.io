@@ -13,11 +13,11 @@ labels:
 
 <img width="250px" class="rounded float-start pe-4" src="../img/einstein.png">
 
-## Why Won't Anyone answer my Question?
+#### Why Won't Anyone answer my Question?
 
 There you are. Smell of Cookie Crumbs in the air. Happy as can be. Why? Because someone answered your question on Stack Overflow about a project you have been working on for the past two months. You open up to Stack Overflow as excited as a kid on christmas morning. But then, what happened? You start to ask yourself what is this answer? They need to know more information? They don't care that I am Newbie? I should study my own project more? Now you feel embarrassed and ashamed,and run up to your room in tears because you did not get the red ryder deluxe, you got bunny pajamas and a bowl of hurt feelings. No need to fret my friend, for I am here to get your question answered the SMART way.
 
-## Is a SMART Question "A Thing?"
+### Is a SMART Question "A Thing?"
 
 Yes, yes and YES! Professionals and engineers working in the field are using their precious, free time to answer your questions. Remind you that they are professionals that have worked for years in the software/program you are trying to run, so respect is a must as well as asking a question the correct way. In business, time is money and wasted time is wasting money. Nobody likes to waste their money. Now I present to you a SMART Question! 
 
@@ -28,7 +28,6 @@ In the following examples, we will see if a SMART question is being asked, or no
 
 ## Case Number 1
 
-```
 Q: Why wont my C program work
 
 I am trying to get the date of the previous month with python. Here is what i've tried:
@@ -47,11 +46,11 @@ echo $(date -d"3 month ago" "+%G%m%d")
 I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
 
 Thanks for your help!
-```
+
 
 While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
 
-```
+
 A: datetime and the datetime.timedelta classes are your friend.
 
 1. find today
@@ -69,16 +68,16 @@ Like this:
  201202
  >>>
 
-```
+
  
 The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
 
 ## Case Number 2.
-```
+
 Q: Why wont my C program work
 
 Hi i have been writing this c program and i have hit a wall it want let me call the sleep function. When i type sleep it just sits there until i exit it. Im' writing this program as a project in school and its based off the comedy skit the dark room.
-```
+
 
 This person is attempting to get the answer for their homework problem the wrong way. Sed person could have asked can you point me in the right direction, instead of demanding an answer without knowing too much about the code in the first place. You can tell this person did not look online first or even ask a friend because of how the question is stated, it is not specific enough to be a SMART question. If the question is not SMART... if the shoe fits... just be a little more descripter with your question so it does not look like you didn't try yourself first.Doing more research is key to getting an answer from Stack Overflow. If you wanted to know, someone answered a Not so Smart Question or a Not Nice question, with a Not so Nice Answer. Now let us analyze.
 
@@ -98,6 +97,6 @@ A good thing he did was send the whole code. If you do not send the entire code,
 
 https://stackoverflow.com/questions/22468440/why-wont-my-c-program-work
 
-## Conclusion
+### Conclusion
 
-It is important especially when you work in the world of tech, how to ask SMART questions. This pertains to not just asking online, but asking your friends and teachers as well. Not so Smart Questions get Not so Nice Answers. Also, if you feel you are being singled out for a question asked, go through the SMART question guide to see if you Deserve a Nice Answer. We work in the world of Software, not feelings. Make sure to do your research, debug your own, use the google machine, and don't be afraid to ask a friend or ask online! Stack Overflow answerers WANT to help you, not yo make your life hard or put you down. They understand they were new at one point too, and just want to guide people to correct code because that is what they truely love doing.If you have a question I hope you take my advice and have it be SMART.! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+It is important especially when you work in the world of tech, how to ask SMART questions. This pertains to not just asking online, but asking your friends and teachers as well. Not so Smart Questions get Not so Nice Answers. Also, if you feel you are being singled out for a question asked, go through the SMART question guide to see if you Deserve a Nice Answer. We work in the world of Software, not feelings. Make sure to do your research, debug your own, use the google machine, and don't be afraid to ask a friend or ask online! Stack Overflow answerers WANT to help you, not yo make your life hard or put you down. They understand they were new at one point too, and just want to guide people to correct code because that is what they truely love doing.If you have a question I hope you take my advice and have it be SMART.! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.Thank you for spending your precious time reading my essay. 
