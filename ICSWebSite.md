@@ -2,14 +2,14 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+title: "ICS Department Website"
+date: 2021
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Java
+  - web application design
+  - html
+summary: "I worked on the ICS page project from Aug2021 untill Aug 2022"
 ---
 
 <div class="text-center p-4">
@@ -18,7 +18,11 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+I worked on the ICS page project from Aug2021 untill Aug 2022. I took on various tasks from the github repository such as implementing a search bar, testing functions and code. For this project, I was working as a Part time Java Web Developer for the ICS department to help make changes to the ICS website. 
+
+The website was written about 20 years ago, so we had to make some major changes. One of the challenges I took was turining all of the .jsp files into html files while maintaining the functionality and integrity of the .jsp page. This was daunting because some of the .jsp files were well over 500 lines of code. SO I picked piece by piece to try and translate each line and function into html, with fully functioning javascript. 
+
+My first task I implemented a website controler that took on more of the back-end handling of the website such as getting to the proper page, web site functionality and much more. 
 
 For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
 
