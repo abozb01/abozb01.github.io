@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/maxresdefault.png
 title: "Server in C"
 date: 2022
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A program that acts as a fully Functional Server in C"
 ---
 
-<img class="img-fluid" src="../img/Screenshot (33).png">
+<img class="img-fluid" src="../img/server.png">
 
 This project took almost the entire semeste to implement. We had to do a number of different things to get the server to work correctly with the client.
 
