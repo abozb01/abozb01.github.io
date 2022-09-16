@@ -1,7 +1,6 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
 title: "ICS Department Website"
 date: 2021
 published: true
