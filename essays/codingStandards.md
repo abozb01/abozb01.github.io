@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/a5896eaf-2792-4ea4-935e-82fd5045f5ef.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Coding-Standards-Best-Practices-To-Follow.png">
 
 
 ## What are Coding Standards ? 
@@ -30,8 +30,7 @@ to implement coding standards.
 
 ## Where can I find these so called Standards?
 	You can find coding standards online on the google machine. Depending on your language you may be able to import the coding standards right into your Intelli J 
-  or ide. For Intelli J, there is a nice option to import the file as an xml file which will be recognized by the ide and implemented immediatly. For others, I would look 
-  around on the internet to see what you can find. Thank you for spending your time you will never get back reading my essay! 
+  or ide. For Intelli J, there is a nice option to import the file as an xml file which will be recognized by the ide and implemented immediatly. For others, I would look around on the internet to see what you can find. Thank you for spending your time you will never get back reading my essay! 
   
-<img width="200px" class="rounded float-start pe-4" src="../img/images.png">h 
+<img width="200px" class="rounded float-start pe-4" src="../img/20181002_WhyCodingStandardsMatter.png">h 
 	
