@@ -32,5 +32,5 @@ to implement coding standards.
 	You can find coding standards online on the google machine. Depending on your language you may be able to import the coding standards right into your Intelli J 
   or ide. For Intelli J, there is a nice option to import the file as an xml file which will be recognized by the ide and implemented immediatly. For others, I would look around on the internet to see what you can find. Thank you for spending your time you will never get back reading my essay! 
   
-<img width="200px" class="rounded float-start pe-4" src="../img/20181002_WhyCodingStandardsMatter.png">h 
+<img width="200px" class="rounded float-start pe-4" src="../img/20181002_WhyCodingStandardsMatter.png">
 	
