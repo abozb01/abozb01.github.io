@@ -19,9 +19,9 @@ I apologize in advance, I cannot give you our secret recipe right away! First pl
 
 ## At LAST THE FORMULAE is MINE!!"
 
-At last the formula will be mine!(plankton voice) Sorry Plankton, I mean reader, but we have alot to discuss first. But what I can tell you is this. Behind every design pattern, there is a secret ingredient or special sauce that makes it so good.
+At last the formula will be mine!(plankton voice) Sorry Plankton and weird salty man, I mean reader, but we have alot to discuss first. But what I can tell you is this. Behind every design pattern, there is a secret ingredient or special sauce that makes it so good.
 
-<img width="330px" class="rounded float-start pe-4" src="../img/salty_1">
+<img width="330px" class="rounded float-start pe-4" src="../img/salty_1.png">
 
 What is the special sauce behind design patterns? What I mean by this is, what is the secret ingredient to this website that makes it operate and look the way it does? 
 
