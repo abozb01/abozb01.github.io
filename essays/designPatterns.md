@@ -11,29 +11,25 @@ labels:
   - Group Projects
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/einstein.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/plankton.png">
 
 ## The Secret Formula is...
 
 I apologize in advance, I cannot give you our secret recipe right away! First please let me take you into the journey of Design Patterns.Behind every website, there is a specific design pattern the developer followed in order to get the website to “work”. Even this very page you are reading follows a unique design pattern. What else in the world follows a design pattern you may ask? Well, you may never stop asking yourself then. But don’t worry! That is why you are reading this essay. 
 
-## At LAST THE FORMULAE is MINE!!" (Picture of Plankton saying this)
+## At LAST THE FORMULAE is MINE!!"
 
 At last the formula will be mine!(plankton voice) Sorry Plankton, I mean reader, but we have alot to discuss first. But what I can tell you is this. Behind every design pattern, there is a secret ingredient or special sauce that makes it so good.
 
-<img width="330px" class="rounded float-start pe-4" src="../img/smart.png">
+<img width="330px" class="rounded float-start pe-4" src="../img/salty.png">
 
 What is the special sauce behind design patterns? What I mean by this is, what is the secret ingredient to this website that makes it operate and look the way it does? 
 
 ## One To Many Mapping
-(Picture of one to many mapping)
+<img width="330px" class="rounded float-start pe-4" src="../img/r-notes.png">
 
 The Design Pattern we used for the final project was the One to Many mapping. Incorporating this design pattern for the Collections in our final project. Collections can be a collection of anything, people, students, types of horse radish. (not a hint for the krabby patty secret ingredient). Those Collections then get linked to other Collections to make and in the process make our work easier! Everyone likes easier work! An example of a collection in our project was profile. By using one to many collections, we ensured that each profile had their own sets of courses, notes, and ratings! Courses, notes and ratings were also collections too.  
 SMART questions *do not* have to have code every single time. That is why I chose this example. Stack Overflow is also used for good old fashioned learning questions.Now Lets Analyze the question. 
-
-<img width="250px" class="rounded float-start pe-4" src="../img/checkmark.png">
-
-https://stackoverflow.com/questions/23450534/how-to-call-a-python-function-from-node-js
 
 
 ## One To Many...When is Too Many??
@@ -43,4 +39,7 @@ For a website made by an adult, collections are always used! They are used on a 
 Well, thank you and I hope you liked my essay! 
 
 I am sorry about the formula!
+
+<img width="100px" class="rounded float-start pe-4" src="../img/secret.png">
+
 
