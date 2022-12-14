@@ -2,6 +2,7 @@
 layout: project
 type: project
 title: "ICS Department Website"
+image: img/ICSWeb.png
 date: 2021
 published: true
 labels:
