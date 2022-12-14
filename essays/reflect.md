@@ -1,14 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "The Secret Formula of DESIGN PATTERNS"
+title: "Whats so Special about Functional Programming?"
 # All dates must be YYYY-MM-DD format!
-date: 2022-09-06
+date: 2022-12-14
 published: true
 labels:
-  - Design Patterns
-  - Example 'Secret' Ingredient
-  - Group Projects
+  - Software Reflection
+  - Functional Programming
 ---
 
 <img width="250px" class="rounded float-start pe-4" src="../img/functionP.png">
