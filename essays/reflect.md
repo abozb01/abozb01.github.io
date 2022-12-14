@@ -35,7 +35,7 @@ VS
 var result = _.filter(someArray, function(someThing) {
   return someThing.isAwesome === true;
 ```
-<img width="330px" class="rounded float-start pe-4" src="../img/cleanCode.png">
+<img width="330px" class="rounded float-start pe-4" src="../img/cleanCodeP.png">
 
 Already you can see 2 lines vs 5 lines. Now that may not seem like a big deal, but what if a different array is used and you wanted to do something similar in later code, 25 times. 25 times 5 is 100, where 25 times 2 is 50. The first snippet you would possibly need another for loop and if statement. In Underscore, you would only need to add onto the .filter function, or incorporate another one of Underscores function in another variable. Underscore is not only useful in for loops, but in any kind of loop(even while loops). You can use functional programming like the above example to perform a calculation with simpler code. There is a library on the functions you can use the link is below if you want to give it a try. http://underscorejs.org/ 
 
