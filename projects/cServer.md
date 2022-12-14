@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/maxresdefault.png
+image: img/serverHome.png
 title: "Server in C"
 date: 2022
 published: true
