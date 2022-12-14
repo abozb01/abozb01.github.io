@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
-title: "Embroyo Project"
+image: img/EmbryoImage.jpeg
+title: "Embryo Project"
 date: 2022
 published: true
 labels:
@@ -47,6 +47,12 @@ I want to take this out of the equation so we can get straight to work.
  I personally created a button allowing the user for a final time vs growth to populate.
  This semester we are throwing the programs some flags and working on updating the application.
  Along with testing new Nural Networks with our embroyo data. 
+  
+ ##Update
+  We configured the flag, I became the Application team leader, and I also implemented a button with screenshot capabilities. 
+  
+ ##Whats Next?
+  Refactoring the program is key. There is alot of duplicate code that can be made into functions, or better yet functional programming. 
  
  
  
